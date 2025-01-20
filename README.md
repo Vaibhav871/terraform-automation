@@ -2,7 +2,7 @@
 
 ## Overview
 This project provisions and manages resources for setting up Amazon EKS (Elastic Kubernetes Service) clusters and deploying Grafana dashboards. It uses Terraform to automate infrastructure provisioning and GitHub Actions workflows for deployment and destruction of resources.
-
+ 
 ## Features
 - Provisioning of EKS clusters using Terraform.
 - Deployment of Grafana dashboards for monitoring Kubernetes clusters.
